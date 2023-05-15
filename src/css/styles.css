@@ -412,6 +412,6 @@
   .navbar {
     width: 300px;
     height: 59px;
-    margin-inline: auto;
+    margin-inline: 5%;
   }
 }
