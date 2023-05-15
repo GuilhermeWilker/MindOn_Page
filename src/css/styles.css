@@ -350,7 +350,7 @@
   .navbar {
     width: 300px;
     height: 59px;
-    margin-inline: 20%;
+    margin-inline: auto;
   }
 
   .navbar h3 {
@@ -412,6 +412,6 @@
   .navbar {
     width: 300px;
     height: 59px;
-    margin-inline: 2%;
+    margin-inline: auto;
   }
 }
